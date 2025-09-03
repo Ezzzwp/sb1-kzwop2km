@@ -1,0 +1,352 @@
+{
+  "header": {
+    "projects": "Projects",
+    "allProjects": "All Projects",
+    "projectsByDistrict": "Projects by District",
+    "marketInsights": "Market Insights",
+    "about": "About",
+    "listProperty": "List Property"
+  },
+  "hero": {
+    "title": "Invest in Tbilisi's",
+    "titleHighlight": "Future Skyline",
+    "subtitle": "Discover premium pre-construction properties in Georgia's capital. Secure your investment before completion and maximize your returns.",
+    "primeLocations": "Prime Locations",
+    "completionYears": "Completion Years",
+    "expectedROI": "Expected ROI",
+    "location": "Location",
+    "allDistricts": "All Districts",
+    "budgetRange": "Budget Range",
+    "anyBudget": "Any Budget",
+    "completion": "Completion",
+    "anyTime": "Any Time",
+    "search": "Search"
+  },
+  "featured": {
+    "title": "Featured Pre-Construction Projects",
+    "subtitle": "Handpicked premium developments offering exceptional investment opportunities",
+    "featured": "Featured",
+    "startingFrom": "Starting from",
+    "perSqm": "Per sq.m",
+    "rooms": "rooms",
+    "constructionProgress": "Construction Progress",
+    "viewDetails": "View Details"
+  },
+  "properties": {
+    "title": "Available Properties",
+    "subtitle": "Discover premium pre-construction properties in Tbilisi's most desirable locations",
+    "filterTitle": "Filter Properties",
+    "clearAll": "Clear All",
+    "district": "District",
+    "priceRange": "Price Range",
+    "anyPrice": "Any Price",
+    "rooms": "Rooms",
+    "any": "Any",
+    "completion": "Completion",
+    "anyTime": "Any Time",
+    "advancedFilters": "Advanced filters available",
+    "applyFilters": "Apply Filters",
+    "noProperties": "No properties match your current filters. Try adjusting your search criteria.",
+    "developer": "Developer",
+    "constructionProgress": "Construction Progress",
+    "viewDetails": "View Details",
+    "contact": "Contact",
+    "roi": "ROI",
+    "callNow": "Call Now",
+    "chatWithAgent": "Chat with Agent"
+  },
+  "propertyDetail": {
+    "backToProperties": "Back to Properties",
+    "propertyNotFound": "Property Not Found",
+    "returnToHome": "Return to Home",
+    "startingFrom": "Starting from",
+    "flatTypes": "flat types",
+    "quickStats": "Quick Stats",
+    "constructionProgress": "Construction Progress",
+    "status": "Status",
+    "developer": "Developer",
+    "investmentHighlights": "Investment Highlights",
+    "preConstructionPricing": "Pre-construction pricing",
+    "highRentalDemand": "High rental demand area",
+    "expectedROI": "Expected ROI",
+    "primeLocation": "Prime location",
+    "trustedDeveloper": "Trusted developer with years of experience in premium construction projects.",
+    "viewAllProperties": "View All Properties",
+    "tabs": {
+      "overview": "Overview",
+      "amenities": "Amenities",
+      "flats": "Flats",
+      "location": "Location"
+    },
+    "overview": {
+      "buildingDescription": "Building Description",
+      "buildingInformation": "Building Information",
+      "flatTypesCount": "Flat Types",
+      "expectedROI": "Expected ROI",
+      "complete": "Complete"
+    },
+    "amenities": {
+      "buildingAmenities": "Building Amenities"
+    },
+    "flats": {
+      "availableFlatTypes": "Available Flat Types",
+      "rooms": "rooms",
+      "viewDetails": "View Details",
+      "flatDetails": "Flat Details",
+      "backToAllFlats": "← Back to all flats",
+      "interiorPhotos": "Interior Photos",
+      "flatInterior": "Flat interior",
+      "floorPlan": "Floor Plan",
+      "specifications": "Specifications",
+      "totalArea": "Total Area:",
+      "rooms": "Rooms:",
+      "bedrooms": "Bedrooms:",
+      "bathrooms": "Bathrooms:",
+      "balconies": "Balconies:",
+      "floor": "Floor:",
+      "view": "View:",
+      "heating": "Heating:",
+      "pricing": "Pricing",
+      "totalPrice": "Total Price",
+      "pricePerSqm": "Price per m²:",
+      "monthlyPayment": "Monthly Payment (est.):",
+      "downPayment": "Down Payment (20%):",
+      "features": "Features",
+      "parkingIncluded": "Parking Included",
+      "noParking": "No Parking",
+      "storageRoom": "Storage Room",
+      "noStorage": "No Storage",
+      "highSpeedInternet": "High-Speed Internet Ready",
+      "modernAppliances": "Modern Appliances"
+    },
+    "location": {
+      "location": "Location",
+      "locationDescription": "Located in the prestigious {district} district, this property offers excellent connectivity to major business centers, shopping areas, and cultural attractions."
+    }
+  },
+  "districts": {
+    "saburtalo": "Saburtalo",
+    "vake": "Vake",
+    "didube": "Didube",
+    "gldani": "Gldani",
+    "isani": "Isani"
+  },
+  "priceRanges": {
+    "50k-100k": "$50K - $100K",
+    "100k-200k": "$100K - $200K",
+    "200k-300k": "$200K - $300K",
+    "300k+": "$300K+"
+  },
+  "roomOptions": {
+    "1": "1 Room",
+    "2": "2 Rooms",
+    "3": "3 Rooms",
+    "4+": "4+ Rooms"
+  },
+  "constructionStatus": {
+    "foundation": "Foundation",
+    "structure": "Structure",
+    "finishing": "Finishing"
+  },
+  "footer": {
+    "description": "Georgia's premier platform for pre-construction real estate investments. Connecting investors with Tbilisi's most promising developments.",
+    "quickLinks": "Quick Links",
+    "browseProperties": "Browse Properties",
+    "investmentGuide": "Investment Guide",
+    "marketAnalysis": "Market Analysis",
+    "developerPartners": "Developer Partners",
+    "legalSupport": "Legal Support",
+    "services": "Services",
+    "propertyValuation": "Property Valuation",
+    "investmentConsulting": "Investment Consulting",
+    "mortgageAssistance": "Mortgage Assistance",
+    "propertyManagement": "Property Management",
+    "rentalServices": "Rental Services",
+    "contactUs": "Contact Us",
+    "newsletter": "Newsletter",
+    "yourEmail": "Your email",
+    "subscribe": "Subscribe",
+    "allRightsReserved": "All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "cookiePolicy": "Cookie Policy"
+  },
+  "marketInsights": {
+    "title": "Tbilisi Real Estate Market Insights",
+    "subtitle": "Stay informed with the latest trends, analysis, and opportunities in Georgia's dynamic property market",
+    "marketOverview": {
+      "title": "Market Overview 2024",
+      "description": "Tbilisi's real estate market continues to show strong growth, driven by foreign investment, urban development, and increasing demand for modern housing solutions.",
+      "stats": {
+        "growth": "Market Growth",
+        "investment": "Foreign Investment",
+        "demand": "Rental Demand",
+        "roi": "Average ROI"
+      }
+    },
+    "keyTrends": {
+      "title": "Key Market Trends",
+      "trend1": {
+        "title": "Pre-Construction Boom",
+        "description": "Increasing investor preference for pre-construction properties offering better pricing and customization options."
+      },
+      "trend2": {
+        "title": "Premium District Focus",
+        "description": "High demand in Vake, Saburtalo, and emerging areas like Didube with excellent infrastructure development."
+      },
+      "trend3": {
+        "title": "International Buyers",
+        "description": "Growing interest from international investors attracted by Georgia's favorable investment climate and residency programs."
+      },
+      "trend4": {
+        "title": "Smart Home Integration",
+        "description": "Modern developments increasingly feature smart home technology and energy-efficient solutions."
+      }
+    },
+    "investmentOpportunities": {
+      "title": "Investment Opportunities",
+      "subtitle": "Why invest in Tbilisi real estate now?",
+      "opportunity1": {
+        "title": "Favorable Exchange Rates",
+        "description": "Current USD/GEL exchange rates provide excellent value for international investors."
+      },
+      "opportunity2": {
+        "title": "Government Incentives",
+        "description": "Georgia's investor-friendly policies and tax benefits make property investment highly attractive."
+      },
+      "opportunity3": {
+        "title": "Tourism Growth",
+        "description": "Booming tourism industry creates strong demand for short-term and long-term rental properties."
+      },
+      "opportunity4": {
+        "title": "Infrastructure Development",
+        "description": "Major infrastructure projects are increasing property values in key districts."
+      }
+    },
+    "priceAnalysis": {
+      "title": "Price Analysis by District",
+      "subtitle": "Average price per square meter in key areas",
+      "districts": {
+        "vake": {
+          "name": "Vake",
+          "price": "$1,800-2,200/m²",
+          "trend": "Stable Premium",
+          "description": "Most prestigious area with consistent high demand"
+        },
+        "saburtalo": {
+          "name": "Saburtalo",
+          "price": "$1,200-1,600/m²",
+          "trend": "Growing Fast",
+          "description": "Rapidly developing with excellent ROI potential"
+        },
+        "didube": {
+          "name": "Didube",
+          "price": "$950-1,300/m²",
+          "trend": "Emerging",
+          "description": "Great value with metro connectivity"
+        },
+        "gldani": {
+          "name": "Gldani",
+          "price": "$800-1,100/m²",
+          "trend": "High Growth",
+          "description": "Affordable entry point with strong growth"
+        }
+      }
+    },
+    "forecast": {
+      "title": "Market Forecast 2024-2026",
+      "subtitle": "Expert predictions for the Tbilisi real estate market",
+      "prediction1": "Continued price appreciation of 8-12% annually in premium districts",
+      "prediction2": "Increased demand for eco-friendly and smart home features",
+      "prediction3": "Growing interest in mixed-use developments combining residential and commercial spaces",
+      "prediction4": "Expansion of international buyer segment, particularly from EU and Middle East"
+    },
+    "cta": {
+      "title": "Ready to Invest?",
+      "subtitle": "Get expert guidance on the best investment opportunities in Tbilisi",
+      "consultation": "Free Consultation",
+      "marketReport": "Download Market Report"
+    }
+  },
+  "chatBot": {
+    "welcome": "Hello! I'm your AI assistant for Outflat.ge. I'm here to help you with any questions about {{propertyTitle}} our properties. How can I assist you today?",
+    "welcomeGeneral": "Hello! I'm your AI assistant for Outflat.ge. I'm here to help you with any questions about our properties. How can I assist you today?",
+    "errorMessage": "I apologize, but I'm having trouble connecting right now. Please try again or contact us directly at +995 599 411 188 or Outflat.sale@gmail.com",
+    "systemPrompt": "You are an AI assistant for Outflat.ge, a premium real estate platform specializing in pre-construction properties in Tbilisi, Georgia. Your role is to help potential investors and buyers with property information, investment opportunities, construction timelines, pricing, location benefits, legal processes, and rental potential. Contact: +995 599 411 188, Outflat.sale@gmail.com. Specializes in districts: Saburtalo, Vake, Didube, Gldani, Isani. Expected ROI: 25-32%. Completion: 2024-2026. Prices: $50K-$300K+. Be helpful, professional, and knowledgeable about Georgian real estate.",
+    "responses": {
+      "propertyPrice": "For {{propertyTitle}}, we have multiple flat types available with different pricing. The starting prices vary based on size and floor level. Would you like me to provide specific pricing for a particular flat size? I can also explain our flexible payment plans and financing options.",
+      "propertyCompletion": "{{propertyTitle}} is currently under construction with regular progress updates. The expected completion timeline depends on the specific building phase. I can provide you with the latest construction progress and estimated completion dates. Would you like me to connect you with our project manager for the most current timeline?",
+      "propertyROI": "{{propertyTitle}} offers excellent investment potential in Tbilisi's growing real estate market. Pre-construction properties typically offer 25-32% ROI based on market appreciation and rental income potential. The exact ROI depends on the flat type, floor level, and market conditions at completion. Would you like a detailed investment analysis?",
+      "greeting": "Hello! Welcome to Outflat.ge. I'm here to help you find the perfect pre-construction property investment in Tbilisi. Are you looking for information about a specific property or would you like me to recommend options based on your budget and preferences?",
+      "location": "We have premium properties in Tbilisi's most desirable districts: Saburtalo (modern developments), Vake (prestigious area), Didube (excellent metro connectivity), Gldani (emerging area), and Isani (riverside location). Each district offers unique advantages. Which area interests you most, or would you like me to recommend based on your priorities?",
+      "payment": "We offer flexible payment options for pre-construction properties including installment plans during construction and mortgage assistance. Typical down payments start from 20% with the balance payable in stages. We also provide connections to local banks for financing. Would you like details about payment schedules for a specific property?",
+      "legal": "We provide comprehensive legal support for international buyers including document preparation, registration assistance, and due diligence. Our legal team handles all aspects of property acquisition in Georgia. The process typically takes 2-4 weeks for document preparation. Would you like me to connect you with our legal department?",
+      "rental": "Tbilisi's rental market is very strong, especially for modern apartments in prime locations. Our properties typically achieve 8-12% annual rental yields. We also offer property management services to handle rentals for international investors. Would you like rental projections for a specific property type?",
+      "contact": "You can reach our team directly at +995 599 411 188 or email us at Outflat.sale@gmail.com. Our agents are available to provide personalized consultations, property viewings, and detailed investment analysis. Would you like me to schedule a call for you?",
+      "default": "I'd be happy to help you with information about our pre-construction properties in Tbilisi. I can assist with pricing, investment analysis, construction timelines, payment options, and more. What specific information would you like to know? If you need detailed assistance, I can also connect you with one of our property specialists at +995 599 411 188."
+    }
+  },
+  "aboutPage": {
+    "title": "About Outflat",
+    "subtitle": "Founded in 2018, Outflat is one of Georgia's leading real estate companies, specializing in the sale of apartments in new residential developments and under-construction projects.",
+    "experience": {
+      "title": "8+ Years of Excellence",
+      "description": "For more than 8 years, we have built a reputation as a trusted partner for buyers and investors, helping them discover the best opportunities in Tbilisi's fast-growing real estate market.",
+      "stats": {
+        "apartmentsSold": "Apartments Sold",
+        "happyClients": "Happy Clients",
+        "premiumProjects": "Premium Projects"
+      }
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To make purchasing property in new developments simple, transparent, and secure for every client."
+    },
+    "strengths": {
+      "title": "Our Strengths",
+      "marketExpertise": {
+        "title": "Market Expertise",
+        "description": "8+ years of expertise in the Georgian real estate market"
+      },
+      "strongPartnerships": {
+        "title": "Strong Partnerships",
+        "description": "Strong partnerships with leading developers and construction companies"
+      },
+      "provenTrackRecord": {
+        "title": "Proven Track Record",
+        "description": "Hundreds of apartments successfully sold in premium residential projects"
+      },
+      "comprehensiveSupport": {
+        "title": "Comprehensive Support",
+        "description": "From project selection and legal paperwork to final purchase"
+      },
+      "trustedResults": {
+        "title": "Trusted Results",
+        "description": "Proven results and long-term trust from both local and international clients"
+      }
+    },
+    "whyChooseUs": {
+      "title": "Why Choose Us?",
+      "description1": "At Outflat, we understand that buying a home is more than just a transaction — it's an important life decision. That's why we focus on personalized service, market knowledge, and reliability.",
+      "description2": "Whether you are looking for your first apartment, a modern family home, or a smart investment, Outflat is here to guide you every step of the way.",
+      "personalizedService": {
+        "title": "Personalized Service",
+        "description": "Tailored solutions for every client's unique needs"
+      },
+      "marketKnowledge": {
+        "title": "Market Knowledge",
+        "description": "Deep understanding of Tbilisi's real estate trends"
+      },
+      "reliability": {
+        "title": "Reliability",
+        "description": "Consistent results and transparent processes"
+      }
+    },
+    "cta": {
+      "title": "Ready to Find Your Perfect Property?",
+      "description": "Let our experienced team help you discover the best investment opportunities in Tbilisi.",
+      "callButton": "Call Us: +995 599 411 188",
+      "emailButton": "Email: Outflat.sale@gmail.com"
+    }
+  }
+}
